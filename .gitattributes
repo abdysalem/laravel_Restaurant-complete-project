@@ -2,6 +2,6 @@
 CHANGELOG.md export-ignore
 *.txt text
 *.html linguist=html
-*.css lunguist=css
+*.css linguist=css
 *.js  linguist=js
 *.scss linguist=scss
